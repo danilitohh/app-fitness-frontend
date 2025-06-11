@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.6",
     "chart.js": "^4.4.9",
+    "firebase": "^11.9.1",
     "framer-motion": "^12.16.0",
     "prop-types": "^15.8.1",
     "react": "^19.1.0",
